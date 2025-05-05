@@ -1,7 +1,3 @@
-# Weight Gain Meal Plan
-
-## Overview
-This meal plan is designed for individuals aiming to gain weight in a healthy and sustainable manner. It focuses on providing a calorie surplus with a balanced intake of macronutrients and micronutrients. The plan is tailored for a person who is 50 kg and 5'4" tall.
 
 ## Daily Meal Plan
 
