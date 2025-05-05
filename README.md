@@ -11,7 +11,7 @@
 
 ### Post-Workout
 - **2 Peanut Butter Sandwiches**
-  - **Portion**: 4 slices of whole grain bread (approx. 120g) + 4 tbsp peanut butter (approx. 64g)
+  - **Portion**: 4 slices of whole grain or multi grain bread  + 4 tbsp peanut butter (approx. 64g) alpino or asitis
   - **Calories**: 680 kcal
   - **Carbohydrates**: 62g
   - **Protein**: 24g
@@ -73,15 +73,4 @@
 - **Protein**: 285.6g
 - **Fat**: 222.8g
 
-## Additional Tips
-- **Hydration**: Drink at least 8-10 glasses of water daily.
-- **Consistency**: Stick to this meal plan consistently to see results.
-- **Exercise**: Combine this diet with a strength training program to build muscle mass.
-- **Adjustments**: Adjust portions as needed based on your hunger and fullness cues.
 
-## Disclaimer
-This meal plan is a general guideline and may not be suitable for everyone. Consult a healthcare professional or dietitian for personalized advice.
-
----
-
-**Note**: This README file is for informational purposes only. Always consult a healthcare professional before starting any new diet or exercise program.
