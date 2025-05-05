@@ -32,7 +32,7 @@
   - **Fat**: 20g
 
 **Option 2: 2 Besan ke Cheelas**
-- **Portion**: 2 medium cheelas made from 1.5 cups besan (approx. 150g) + 1.5 tbsp oil (approx. 22g)
+- **Portion**: 2 medium cheelas made from 1.5 cups besan (approx. 150g) 
   - **Calories**: 650 kcal
   - **Carbohydrates**: 70g
   - **Protein**: 30g
