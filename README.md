@@ -16,7 +16,7 @@
   - **Carbohydrates**: 62g
   - **Protein**: 24g
   - **Fat**: 38g
--** -OR- **
+- ** -OR- **
 - **Banana Shake with Dry Fruits**
   - **Portion**: 1 large banana (approx. 130g) + 1.5 cups whole milk (approx. 360ml) + 1 tbsp almonds (approx. 14g) + 1 tbsp cashews (approx. 14g)
   - **Calories**: 480 kcal
