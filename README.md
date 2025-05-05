@@ -1,5 +1,4 @@
 
-
 ## Daily Meal Plan
 
 ### Pre-Workout
@@ -25,17 +24,15 @@
   - **Fat**: 16g
 
 ### Breakfast
-- **4 Rotis with Green Veggies and Curd**
-  - **Portion**: 4 medium rotis (approx. 200g) + 1.5 cups cooked green veggies (approx. 225g) + 1.5 cups curd (approx. 360g)
+**Option 1: 4 Rotis with Green Veggies and Curd**
+- **Portion**: 4 medium rotis (approx. 200g) + 1.5 cups cooked green veggies (approx. 225g) + 1.5 cups curd (approx. 360g)
   - **Calories**: 750 kcal
   - **Carbohydrates**: 110g
   - **Protein**: 28g
   - **Fat**: 20g
 
-**Optional:**
-
-- **2 Besan ke Cheelas**
-  - **Portion**: 2 medium cheelas made from 1.5 cups besan (approx. 150g) 
+**Option 2: 2 Besan ke Cheelas**
+- **Portion**: 2 medium cheelas made from 1.5 cups besan (approx. 150g) + 1.5 tbsp oil (approx. 22g)
   - **Calories**: 650 kcal
   - **Carbohydrates**: 70g
   - **Protein**: 30g
@@ -81,26 +78,26 @@
 
 ## Total Approximate Daily Intake
 
-### Option 1: With Soya Chunks for Lunch
+### Option 1: Rotis for Breakfast + Soya Chunks for Lunch
 - **Calories**: 5,620 kcal
 - **Carbohydrates**: 761g
 - **Protein**: 285.6g
 - **Fat**: 222.8g
 
-### Option 2: With Tofu for Lunch
+### Option 2: Rotis for Breakfast + Tofu for Lunch
 - **Calories**: 5,116 kcal
 - **Carbohydrates**: 704.9g
 - **Protein**: 244.6g
 - **Fat**: 182.8g
 
-### Option 3: With Besan ke Cheela and Rotis for Breakfast
-- **Calories**: 6,270 kcal
-- **Carbohydrates**: 831g
-- **Protein**: 315.6g
-- **Fat**: 247.8g
+### Option 3: Besan ke Cheela for Breakfast + Soya Chunks for Lunch
+- **Calories**: 5,570 kcal
+- **Carbohydrates**: 731g
+- **Protein**: 295.6g
+- **Fat**: 217.8g
 
-## Additional Tips
-- **Hydration**: Drink at least 8-10 glasses of water daily.
-- **Consistency**: Stick to this meal plan consistently to see results.
-- **Exercise**: Combine this diet with a strength training program to build muscle mass.
-- **Adjustments**: Adjust portions as needed based on your hunger and fullness cues.
+### Option 4: Besan ke Cheela for Breakfast + Tofu for Lunch
+- **Calories**: 5,066 kcal
+- **Carbohydrates**: 674.9g
+- **Protein**: 254.6g
+- **Fat**: 177.8g
