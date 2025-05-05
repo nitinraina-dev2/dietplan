@@ -16,7 +16,6 @@
   - **Carbohydrates**: 62g
   - **Protein**: 24g
   - **Fat**: 38g
-## ** OR/AND **
 - **Banana Shake with Dry Fruits**
   - **Portion**: 1 large banana (approx. 130g) + 1.5 cups whole milk (approx. 360ml) + 1 tbsp almonds (approx. 14g) + 1 tbsp cashews (approx. 14g)
   - **Calories**: 480 kcal
@@ -31,6 +30,9 @@
   - **Carbohydrates**: 110g
   - **Protein**: 28g
   - **Fat**: 20g
+
+## ** OR/AND **
+
 - **2 Besan ke Cheelas**
   - **Portion**: 2 medium cheelas made from 1.5 cups besan (approx. 150g) + 1.5 tbsp oil (approx. 22g)
   - **Calories**: 650 kcal
